@@ -1,0 +1,11 @@
+# ninja log v5
+20	738	1739608968617202046	CMakeFiles/ImGuiTest.dir/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c.o	1ed071bc61926242
+16	920	1739608968873202045	CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_android.cpp.o	f8c081a67c5ae49b
+16	1182	1739608968921202045	CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_opengl3.cpp.o	8ecb81018c53e562
+9	2494	1739608970433202045	CMakeFiles/ImGuiTest.dir/imgui/imgui_draw.cpp.o	3941f89a176c4cd3
+10	3590	1739608971457202044	CMakeFiles/ImGuiTest.dir/imgui/imgui_tables.cpp.o	77a439b577d47cb6
+8	3748	1739608971665202044	CMakeFiles/ImGuiTest.dir/imgui/imgui_demo.cpp.o	b60a75035a19f14a
+11	4023	1739608971701202044	CMakeFiles/ImGuiTest.dir/imgui/imgui_widgets.cpp.o	a73ed65bcef7d6df
+6	5869	1739608973865202044	CMakeFiles/ImGuiTest.dir/imgui/imgui.cpp.o	49e198787f7f440
+5	7472	1739608975385202043	CMakeFiles/ImGuiTest.dir/main.cpp.o	fef230cb2b8ea0c3
+7477	7949	1739608975989202043	/storage/emulated/0/AideProjects/imgui_test/app/build/intermediates/cxx/Debug/294b1oj2/obj/arm64-v8a/libImGuiTest.so	d628e4bd97c9d012

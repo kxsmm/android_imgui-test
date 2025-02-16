@@ -1,0 +1,379 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/build/cmake/android-legacy.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/build/cmake/platforms.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/build/cmake/compiler_id.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Determine.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a/CMakeFiles/3.17.2/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Determine-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a/CMakeFiles/3.17.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a/CMakeFiles/3.17.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/user/0/aidepro.top/files/framework/android-sdk/cmake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a",
+		"source" : "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

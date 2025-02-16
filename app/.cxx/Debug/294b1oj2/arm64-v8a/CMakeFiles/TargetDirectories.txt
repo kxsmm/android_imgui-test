@@ -1,0 +1,3 @@
+/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a/CMakeFiles/edit_cache.dir
+/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a/CMakeFiles/ImGuiTest.dir

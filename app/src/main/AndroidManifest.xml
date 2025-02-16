@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="imgui.test.img">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:resizeableActivity="true">
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <meta-data android:name="android.app.lib_name"
+                android:value="ImGuiTest" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+          android:name="android.max_aspect"
+          android:value="4.0"/>
+
+    </application>
+
+</manifest>

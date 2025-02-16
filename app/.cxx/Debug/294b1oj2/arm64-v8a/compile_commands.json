@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/main.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/main.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/main.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_demo.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_demo.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_demo.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_draw.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_draw.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_draw.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_tables.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_tables.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_tables.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_widgets.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_widgets.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_widgets.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_android.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_impl_android.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_impl_android.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot  -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -std=c++11 -o CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_opengl3.cpp.o -c /storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_impl_opengl3.cpp",
+  "file": "/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui/imgui_impl_opengl3.cpp"
+},
+
+{
+  "directory": "/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/arm64-v8a",
+  "command": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-aarch64/sysroot -DIMGUI_IMPL_OPENGL_ES3 -DImGuiTest_EXPORTS -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/imgui -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/draw -I/storage/emulated/0/AideProjects/imgui_test/app/src/main/cpp/font -I/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/ImGuiTest.dir/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c.o   -c /data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c",
+  "file": "/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c"
+}
+]

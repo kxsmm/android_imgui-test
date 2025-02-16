@@ -1,0 +1,7 @@
+Executable : /data/user/0/aidepro.top/files/framework/android-sdk/cmake/bin/ninja
+arguments : 
+-C
+/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a
+ImGuiTest
+jvmArgs : 
+
