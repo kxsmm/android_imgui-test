@@ -67,6 +67,17 @@ static void handleAppCmd(struct android_app* app, int32_t appCmd)
     }
 }
 
+
+
+extern "C" JNIEXPORT void JNICALL
+Java_imgui_test_img_MainActivity2_ActivityJump(JNIEnv* env, jobject obj) {
+	jclass cls = env->GetObjectClass(obj);
+	jmethodID methodID = env->GetMethodID(cls, "jumpToMainActivity2", "()V");
+	if (methodID != nullptr) {
+        env->CallVoidMethod(obj, methodID);
+    }
+}
+
 static int32_t handleInputEvent(struct android_app* app, AInputEvent* inputEvent)
 {
     return ImGui_ImplAndroid_HandleInputEvent(inputEvent);
@@ -200,10 +211,11 @@ void MainLoopStep()
     ImGui::NewFrame();
     
 
-    bool is_exit = draw_imgui();
-    if(is_exit == true) {
-        return;
-    }
+	bool is_exit = draw_imgui();
+	if (is_exit) {
+    	return;
+	}
+
     
     
     ImGui::Render();

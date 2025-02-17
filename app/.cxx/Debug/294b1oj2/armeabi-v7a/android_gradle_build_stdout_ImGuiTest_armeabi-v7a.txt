@@ -1,9 +1,9 @@
 ninja: Entering directory `/storage/emulated/0/AideProjects/imgui_test/app/.cxx/Debug/294b1oj2/armeabi-v7a'
-[1/10] Building C object CMakeFiles/ImGuiTest.dir/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c.o
-[2/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_android.cpp.o
+[1/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_android.cpp.o
+[2/10] Building C object CMakeFiles/ImGuiTest.dir/data/user/0/aidepro.top/files/framework/android-sdk/ndk/24.0.8215888/sources/android/native_app_glue/android_native_app_glue.c.o
 [3/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_impl_opengl3.cpp.o
-[4/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_tables.cpp.o
-[5/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_demo.cpp.o
+[4/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_demo.cpp.o
+[5/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_tables.cpp.o
 [6/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_draw.cpp.o
 [7/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui_widgets.cpp.o
 [8/10] Building CXX object CMakeFiles/ImGuiTest.dir/imgui/imgui.cpp.o
