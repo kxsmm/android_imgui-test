@@ -65,11 +65,9 @@ public class MainActivity2 extends Activity {
 									}
 								});
 						}
-
 					} 
 				}
 			});
-
 		b.setOnClickListener(new View.OnClickListener() {
 
 				@Override
@@ -83,9 +81,6 @@ public class MainActivity2 extends Activity {
             e.printStackTrace();
         }
 	}
-
-
-
 	public void jumpToMainActivity2() {
         Intent intent = new Intent(MainActivity2.this, MainActivity.class);
         startActivity(intent);
@@ -99,8 +94,6 @@ public class MainActivity2 extends Activity {
 			firstBackTime = System.currentTimeMillis();
 			return;
 		}
-
 		super.onBackPressed();
 	}
-
 }
